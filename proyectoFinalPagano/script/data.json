@@ -1,0 +1,172 @@
+[
+    {
+        "type": "Energizantes",
+        "description": "Monster Energy Anana",
+        "price": 900,
+        "available": true,
+        "source": "images/monsteranana.jpg"
+    },
+    {
+        "type": "Energizantes",
+        "description": "Monster Energy Clasica",
+        "price": 800,
+        "available": true,
+        "source": "images/monsterclasic.jpg"
+    },
+    {
+        "type": "Energizantes",
+        "description": "Monster Energy Manzana",
+        "price": 990,
+        "available": true,
+        "source": "images/monster manzana.jpeg"
+    },
+    {
+        "type": "Energizantes",
+        "description": "Monster Energy Mango Loco",
+        "price": 950,
+        "available": true,
+        "source": "images/monster mango.jpg"
+    },
+    {
+        "type": "Energizantes",
+        "description": "Monster Energy Valentino Rossi",
+        "price": 880,
+        "available": true,
+        "source": "images/monstercr.jpg"
+    },
+    {
+        "type": "Energizantes",
+        "description": "Monster Energy Naranja ",
+        "price": 950,
+        "available": true,
+        "source": "images/monsternaranja.jpg"
+    },
+    {
+        "type": "Bebidas",
+        "description": "Coca-Cola Marshmellow",
+        "price": 550,
+        "available": true,
+        "source": "images/bebidas/Cocamarsh.jpeg"
+    },
+    {
+        "type": "Bebidas",
+        "description": "Coca-Cola con Cafe",
+        "price": 250,
+        "available": true,
+        "source": "images/bebidas/cocafe.jpg"
+    },
+    {
+        "type": "Bebidas",
+        "description": "Coca-Cola Campeones del mundo 2022",
+        "price": 1500,
+        "available": false,
+        "source": "images/bebidas/cocascaloneta.jpg"
+    },
+    {
+        "type": "Bebidas",
+        "description": "Coca-cola Rosalia",
+        "price": 1100,
+        "available": true,
+        "source": "images/bebidas/CocaBerry.jpeg"
+    },
+    {
+        "type": "Energizantes",
+        "description": "Red-Bull Clasica",
+        "price": 440,
+        "available": true,
+        "source": "images/redbull.jpg"
+    },
+    {
+        "type": "Prentreno",
+        "description": "Pre-Workout Psychotic",
+        "price": 45000,
+        "available": false,
+        "source": "images/pre-entrenos/psyco.jpg"
+    },
+    {
+        "type": "Bebidas",
+        "description": "Mirinda",
+        "price": 320,
+        "available": true,
+        "source": "images/bebidas/fanta.jpg"
+    },
+    {
+        "type": "Prentreno",
+        "description": "C4 Pre-Workout",
+        "price": 30000,
+        "available": true,
+        "source": "images/pre-entrenos/c4.jpg"
+    },
+    {
+        "type": "Prentreno",
+        "description": "Pre-Workout Star Nutrition",
+        "price": 14500,
+        "available": true,
+        "source": "images/pre-entrenos/prentrenostar.jpg"
+    },
+    {
+        "type": "Bebidas",
+        "description": "Coca-Cola Sin azucar",
+        "price": 350,
+        "available": true,
+        "source": "images/bebidas/cocasinazucar.jpg"
+    },
+    {
+        "type": "Bebidas",
+        "description": "Pepsi",
+        "price": 350,
+        "available": true,
+        "source": "images/bebidas/pepsi.jpg"
+    },
+    {
+        "type": "Bebidas",
+        "description": "Fanta Misterio Version 1",
+        "price": 600,
+        "available": false,
+        "source": "images/bebidas/fantamisterio1.jpg"
+    },
+    {
+        "type": "Bebidas",
+        "description": "Fanta Misterio Version 2",
+        "price": 450,
+        "available": true,
+        "source": "images/bebidas/fantaroja.jpg"
+    },
+    {
+        "type": "Bebidas",
+        "description": "Schweppes",
+        "price": 300,
+        "available": true,
+        "source": "images/bebidas/schweppes.jpg"
+    },
+    {
+        "type": "Bebidas",
+        "description": "Sprite",
+        "price": 500,
+        "available": true,
+        "source": "images/bebidas/sprite.jpg"
+    },
+    {
+        "type":"Golosinas",
+        "description": "barra proteica ultratech frutilla",
+        "price": 2860,
+        "available": true,
+        "source": "images/golos/ultratechfruti.jpg"
+    },
+    {
+        "type":"Golosinas",
+        "description":"Whey Bar Chocolate",
+        "price": 1700,
+        "available":true,
+        "source":"images/golos/wheybar.jpg"
+    },
+    {
+        "type":"Golosinas",
+        "description":"Cereal-Mix Yogurt Frutilla",
+        "price":150,
+        "available":true,
+        "source":"images/golos/cerealmix.jpg"
+    }
+]
+
+
